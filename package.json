@@ -1,0 +1,13 @@
+{
+  "name": "twitter_feed",
+  "version": "0.0.1",
+  "private": true,
+  "author": "Takeshi Watanabe",
+  "dependencies": {
+    "express": ">= 3.0.0rc4",
+    "jquery": ">= 1.7.3",
+    "request": "> 2.11.1",
+    "rss": ">= 0.0.3",
+    "twit": ">= 0.9.8"
+  }
+}
